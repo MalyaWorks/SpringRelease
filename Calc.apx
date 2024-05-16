@@ -3,6 +3,7 @@ public class Calc
    public static void sum(integer a , integer b)
 {
    System.debug(a+b);
+   System.debug("Sum");
 }
  public static void mul(integer a , integer b)
 {
