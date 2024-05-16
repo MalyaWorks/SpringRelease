@@ -1,0 +1,7 @@
+public class Calc
+{
+   public static void sum(integer a , integer b)
+{
+   System.debug(a+b);
+}
+}
